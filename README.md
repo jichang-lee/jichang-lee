@@ -11,7 +11,7 @@
 
 
 <p align="center">
-    <Strong>👨‍💻Tech Stack⚒</Strong><br>
+    <Strong>👨‍💻Tech Stack</Strong><br>
 </p>
 
 <p align="center">
